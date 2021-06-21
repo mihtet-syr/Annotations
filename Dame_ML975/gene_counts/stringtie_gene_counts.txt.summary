@@ -1,0 +1,15 @@
+Status	../bam/americana_AG_1.bam	../bam/americana_AG_2.bam	../bam/americana_AG_3.bam	../bam/americana_carcass_1.bam	../bam/americana_carcass_2.bam	../bam/americana_carcass_3.bam	../bam/americana_EB_1.bam	../bam/americana_EB_2.bam	../bam/americana_testes_1.bam	../bam/americana_testes_2.bam	../bam/americana_testes_3.bam	../bam/DameSB_fem.bam	../bam/DameSB_mal.bam
+Assigned	19262775	25299455	22912173	20900160	32728143	18753758	17021048	26442271	19255932	26042444	29302553	58212697	161762523
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	4210490	4270340	3515162	13463233	10824496	18302455	1868784	2585180	1858472	1999031	2302529	16248108	27910679
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	681291	714919	657737	738034	727024	432547	161806	286627	348475	455492	521850	1455906	3938091
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	2392372	2975222	2668462	1855360	3364903	1808667	3465564	4969647	1388079	1952149	2173521	6009599	16047196
